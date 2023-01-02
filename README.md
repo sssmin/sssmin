@@ -2,4 +2,5 @@
 
 
 ---
-blog : https://blog.naver.com/hm2042/ <br>
+blog :  https://blog.naver.com/sssmin_
+
