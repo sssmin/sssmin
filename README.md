@@ -2,5 +2,5 @@
 
 
 ---
-blog :  https://blog.naver.com/sssmin_
+<a href="https://blog.naver.com/sssmin_" rel="nofollow">블로그</a>
 
